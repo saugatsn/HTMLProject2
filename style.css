@@ -1,0 +1,56 @@
+#title{
+    text-align: center;
+    color:white;
+}
+#description{
+    text-align: center;
+    color:white;
+    font-style: italic;
+    
+}
+#section{
+    margin-left:20%;
+    margin-right:25%;
+    background-color: #00055A;
+    font-size: larger;
+}
+#color{
+    background: linear-gradient(red, yellow);
+    opacity: 0.5;
+    margin:-5px;
+
+}
+#survey-form{
+    margin-left: 80px;
+    color: white;
+
+}
+#name, #email, #number, #dropdown1, #dropdown2{
+    width: 80%;
+    height: 30px;
+    border-radius: 5px;
+    background-color: white;
+
+}
+#selections{
+    height:60px;
+    width:60%;
+}
+ #body{
+     background-image: url(images/meeting.jpg); 
+     background-position:center;
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-attachment: fixed;
+
+ }
+ #text-area{
+     width: 80%;
+     height: 80px;
+ }
+ #submit{
+     width:60%;
+     background-color: lightgreen;
+     height:40px;
+     margin-left:12%;
+ }
